@@ -67,7 +67,6 @@ def main() -> None:
                 print(f"[memories] Saved {saved} (merged/updated {merged})")
         return answer
 
-    print(handle(prompt))
     try:
         while True:
             nxt = input("You: ").strip()
