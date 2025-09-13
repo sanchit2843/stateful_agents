@@ -1,4 +1,4 @@
-# Technical Decisions — Minimal Per‑User Memory Chat
+# Memory Chat
 
 This document explains the key architectural choices, trade‑offs, and implementation details behind this repo’s minimal per‑user memory chat. It is meant to be a slightly detailed reference for future contributors.
 
